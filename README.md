@@ -1,11 +1,13 @@
 if Key == "1" 
 or Key == "SAIKI" then
+or Key == "team"
 if Discord == "2" 
 or Discord == "937724079891423272" then
+or Discord == "901066116909133834"
 _G.Autokaitan = false
 local HWID = {
    "70abfefb-08d4-4a72-9ca6-801e6beea54e",
-   "HWID2",
+   "47a25b37-8bcc-4d1d-a41c-d6b5945442cf",
    "HWID3"
 }
 
